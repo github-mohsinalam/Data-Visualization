@@ -10,3 +10,10 @@ The repository contains multiple jupyter notebook , explaining various python li
  The data presents both inflows and outflows according to the place of birth, 
  citizenship or place of previous / next residence both for foreigners and nationals.
  Here we will focus on the Canadian Immigration data.
+ 
+ ## The first notebook(Introduction-to-Matplotlib-and-Line-Plots.ipynb) covers:
+ Data visualization and some of the best practices to keep in mind when creating plots and visuals.
+ Basic plotting with Matplotlib.
+Introduction to dataset on immigration to Canada, which will be used extensively throughout the repo.
+How to read csv files into a pandas dataframe and process and manipulate the data in the dataframe.
+How to generate line plots using Matplotlib.
