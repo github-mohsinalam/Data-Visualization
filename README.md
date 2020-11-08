@@ -19,9 +19,9 @@ The repository contains multiple jupyter notebook , explaining various python li
 - How to generate line plots using Matplotlib.
 
 ## The second notebook(Area-Plots-Histograms-and-Bar-Chart.ipynb) covers:
-Area plots, and how to create them with Matplotlib.
-Histograms, and how to create them with Matplotlib.
-Bar charts, and how to create them with Matplotlib.
-Pie charts, and how to create them with Matplotlib.
-Box plots, and how to create them with Matplotlib.
-Scatter plots and bubble plots, and how to create them with Matplotlib.
+- Area plots, and how to create them with Matplotlib.
+- Histograms, and how to create them with Matplotlib.
+- Bar charts, and how to create them with Matplotlib.
+- Pie charts, and how to create them with Matplotlib.
+- Box plots, and how to create them with Matplotlib.
+- Scatter plots and bubble plots, and how to create them with Matplotlib.
