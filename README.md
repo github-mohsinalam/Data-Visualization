@@ -22,6 +22,7 @@ The repository contains multiple jupyter notebook , explaining various python li
 - Area plots, and how to create them with Matplotlib.
 - Histograms, and how to create them with Matplotlib.
 - Bar charts, and how to create them with Matplotlib.
+## The third notebook(Pie-charts-Box-plots-Scatter-plots.ipynb) covers:
 - Pie charts, and how to create them with Matplotlib.
 - Box plots, and how to create them with Matplotlib.
 - Scatter plots and bubble plots, and how to create them with Matplotlib.
